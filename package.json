@@ -1,6 +1,6 @@
 {
   "name": "champ",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "private": true,
   "author": "MaxIconAgency <99296499+MaxIconAgency@users.noreply.github.com>",
   "description": "Ask questions like a champ",
@@ -20,6 +20,6 @@
     "hubot-slack": "^4.10.0"
   },
   "engines": {
-    "node": "0.10.x"
+    "node": "16.13.2"
   }
 }
