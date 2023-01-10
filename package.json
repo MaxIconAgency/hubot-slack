@@ -6,6 +6,8 @@
   "description": "Ask questions like a champ",
   "dependencies": {
     "hubot": "^3.3.2",
+    "hubot-ascii-art": "^1.1.4",
+    "hubot-dad-jokes": "^1.0.8",
     "hubot-diagnostics": "^1.0.0",
     "hubot-google-images": "^0.2.7",
     "hubot-google-translate": "^0.2.1",
